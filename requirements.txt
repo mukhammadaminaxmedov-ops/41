@@ -1,0 +1,5 @@
+python-telegram-bot[job-queue]>=21.10,<22
+python-dotenv>=1.0,<2
+feedparser>=6.0,<7
+openai>=1.60,<3
+twilio>=9.4,<10
